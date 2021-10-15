@@ -16,10 +16,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/ghislainafavi'}
+- {icon: 'twitter', link: 'https://twitter.com/GhislainAfavi'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/afavi-ghislain'}
 
 contacts:
 - {name: 'Ghislain Afavi ', title: 'Phd in economics', department: 'Economics', institution: 'University of Montreal', institution_address: '3150 Jean brillant', phone: '(514) 569-5551', email: 'ghislain.afavi@umontreal.ca', office: 'C-6070-1 Lionel Grioulx Building', image: 'assets/img/contact.jpg'}
