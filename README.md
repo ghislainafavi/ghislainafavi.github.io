@@ -2,15 +2,7 @@
 
 ### A Jekyll theme for academia
 
-![Academic Screenshot](ghislainafavi/ghislainafavi.github.io/screenshot.PNG)
 
-A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
-
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
-
-* Manage courses that you are teaching.
-
-* Provide updates to your students and faulty.
 
 ## Installation
 
