@@ -4,4 +4,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Ghislain Afavi" # the name of your site, e.g. ACME Corp.
 description: ""
 
-
+div {
+  font-size-adjust: 0.58;
+}
