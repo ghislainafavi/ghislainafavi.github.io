@@ -15,4 +15,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/afavi-ghislain-5379b8a7/'}
 
 contacts:
-- { title: '', department: '', institution: '', , email: 'ghislain.afavi@umontreal.ca', phone: '(514) 569-5551' office: 'Lionel-Groulx Building, Office C-6070-1', institution_address: '3150 Jean brillant' , institution_address: 'Montréal, Québec, H3T 1N8, Canada.' image: ''}
+- { title: '', department: '', institution: '' , email: 'ghislain.afavi@umontreal.ca', phone: '(514) 569-5551', office: 'Lionel-Groulx Building, Office C-6070-1', institution_address: '3150 Jean brillant' , institution_address: 'Montréal, Québec, H3T 1N8, Canada.', image: ''}
