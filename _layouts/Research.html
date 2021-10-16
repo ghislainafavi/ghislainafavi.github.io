@@ -3,21 +3,14 @@ layout: default
 ---
 
 <div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Working Papers</h3>
-    {% for item in site.data.Research.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% if page.title == "Home" %}
-      {% for item in site.data.Research.featured%}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.Research.index%}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
-
-{% include Research.html %}
+  <div class="col-md-12">
+    <h3 style="color:Teal"> Working Papers</h3>
+    <p> Data analysis for economists (undergraduate), Fall 2019, Winter 2020, Fall 2020 </p>
+     <p> Introduction to macroeconomics (undergraduate), Winter 2021 </p>
+   </div>
+  <div class="col-md-12">
+  <h3 style="color:Teal">Works in progress</a></h3>
+  <p>  Financial instability, price instability, and inequality  </p>
+ <p>US repo market and fiscal policy, with Carolyn Sissoko </p> 
+   </div>
+  
