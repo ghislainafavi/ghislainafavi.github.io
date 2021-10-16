@@ -1,3 +1,9 @@
+
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Ghislain Afavi" # the name of your site, e.g. ACME Corp.
+description: ""
+
 google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N09Z60DQWM"></script>
 <script>
@@ -7,11 +13,6 @@ google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
 
   gtag('config', 'G-N09Z60DQWM');
 </script>
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Ghislain Afavi" # the name of your site, e.g. ACME Corp.
-description: ""
-
 
 
 
