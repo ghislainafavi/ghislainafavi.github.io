@@ -2,7 +2,7 @@
 
 ### A Jekyll theme for academia
 
-![Academic Screenshot](https:ghislainafavi/ghislainafavi.github.io/screenshot.png)
+![Academic Screenshot](ghislainafavi/ghislainafavi.github.io/screenshot.png)
 
 A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
 
@@ -45,10 +45,6 @@ The following sections describe usage instructions for this Jekyll theme,includi
 #### Home
 
 The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
-
-#### People
-
-The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
 
 #### Research
 
