@@ -7,7 +7,7 @@ description: ""
 <style type="text/css">
 
 h1.title {
-  font-size: 38px;
+  font-size: 01px;
   color: DarkRed;
   text-align: center;
 }
