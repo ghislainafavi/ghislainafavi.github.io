@@ -3,7 +3,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title:< style="font-size:10%;"> "Ghislain Afavi" </style># the name of your site, e.g. ACME Corp.
 description: ""
-font:         "'Nunito Sans', Helvetica, Arial, sans-serif"
-font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
-google_fonts: "Roboto+Slab:700|Noto+Sans:400,400i,700,700i"
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+  text-align: center;
+}
+h4.author { /* Header 4 - and the author and data headers use this too  */
+    font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkRed;
+  text-align: center;
+}
+h4.date { /* Header 4 - and the author and data headers use this too  */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+  text-align: center;
+}
+</style>
 
