@@ -1,7 +1,7 @@
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Ghislain Afavi" # the name of your site, e.g. ACME Corp.
+title: "< style="font-size:10%;">Ghislain Afavi" # the name of your site, e.g. ACME Corp.
 description: ""
 font:         "'Nunito Sans', Helvetica, Arial, sans-serif"
 font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
