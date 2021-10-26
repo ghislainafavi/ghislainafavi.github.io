@@ -1,5 +1,5 @@
 menu:
-- {name: <style="color:Teal">'Research', url: '/Research'}
+- {name: 'Research', < style="color:Teal" url: '/Research' >}
 - {name: 'Teaching', url: '/Teaching'}
 - {name: 'References', url: '/References'}
 
