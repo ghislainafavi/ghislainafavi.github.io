@@ -10,4 +10,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/afavi-ghislain-5379b8a7/'}
 
 contacts:
-- {  email: 'gafavi[at]imf[dot]org', phone: '', office: '', institution_address: 'IMF, 700 19th St NW, Washington, DC 20431', institution_address1: ''}
+- {  email: 'gafavi[at]imf[dot]org', institution_address: 'IMF, 700 19th St NW, Washington, DC 20431', institution_address1: ''}
