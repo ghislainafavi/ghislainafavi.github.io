@@ -1,5 +1,3 @@
 featured:
-
-
--index:
-- {name: 'Monetary policy, sticky wages, and household heterogeneityyy', url: 'https://github.com/ghislainafavi/ghislainafavi.com/blob/gh-pages/HANK_TANK_Afavi.pdf'}
+  - name: "Monetary Policy, Sticky Wages, and Household Heterogeneity"
+    url: "https://github.com/ghislainafavi/ghislainafavi.github.io/raw/main/publications/HANK_TANK_Afavi.pdf"
