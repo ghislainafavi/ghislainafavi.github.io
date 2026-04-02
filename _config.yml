@@ -1,8 +1,4 @@
----
 url: "https://ghislainafavi.github.io"
 baseurl: ""
 title: "Ghislain Afavi"
-description: "Economist at the IMF"
-remote_theme: LeNPaul/academic
-plugins:
-  - jekyll-remote-theme
+description: "Economist at the International Monetary Fund"
