@@ -2,7 +2,7 @@ menu:
 - {name: 'Research',  url: '/Research' }
 - {name: 'Policy Publications',  url: '/Policy' }
 - {name: 'Teaching', url: '/Teaching'}
-- {name: 'References', url: '/References'}
+- {name: 'Policy Pub', url: '/References'}
 
 
 social:
