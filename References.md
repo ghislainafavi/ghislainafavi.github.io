@@ -1,4 +1,4 @@
 ---
-layout: References
-title: "References"
+layout: Reference
+title: "Reference"
 ---
