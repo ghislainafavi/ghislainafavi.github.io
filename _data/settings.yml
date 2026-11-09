@@ -1,5 +1,6 @@
 menu:
 - {name: 'Research',  url: '/Research' }
+- {name: 'Policy Publications',  url: '/Policy' }
 - {name: 'Teaching', url: '/Teaching'}
 - {name: 'References', url: '/References'}
 
